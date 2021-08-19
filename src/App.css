@@ -6,6 +6,13 @@
   height: 40vmin;
   pointer-events: none;
 }
+.dist input{
+  margin-bottom: 10px;
+}
+.dist select{
+  margin-bottom: 10px;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
